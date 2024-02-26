@@ -48,3 +48,33 @@ header{
     top: 210px;
     left: 90px;
 }
+
+.social-media{
+    position: absolute;
+    right:  80px;
+    top: 35px;
+    cursor: pointer;
+}
+
+.texto-sobre h1{
+    font-size: 40px;
+    text-align: right;
+    margin-right: 170px;
+}
+
+.texto-sobre p{
+    margin: 16px 0;
+    color:black;
+    font-size: 17px;
+    font-weight: bold;
+    max-width: 750px;
+    float: right;
+    text-align: center;
+}
+
+.ingredientes h2{
+    font-size: 40px;
+    text-align: right;
+    margin-right: 170px;
+
+}
