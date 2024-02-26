@@ -1,6 +1,6 @@
 *{
-    margin: -5;
-    padding: 1;
+    margin: -5px;
+    padding: 2;
     box-sizing: border-box
 }
 
@@ -15,11 +15,14 @@
 html,body{
     height: 110%;
     background-color:burlywood
+    
+
 }
 
 header{
     height: 200px;
     padding: 15px 0;
+
 }
 
 .logo{
@@ -85,11 +88,10 @@ header{
     margin-bottom: 5px;
     text-align: left;
     margin-left: 640px;
+    float: left;
     
 }
 .ingredientes-dois li{
-    display: flex;
-    flex-direction: row;
     margin-bottom: 5px;
     text-align: left;
     margin-left: 1080px;
@@ -98,8 +100,8 @@ header{
 .preparo h3{
     font-size: 30px;
     text-align: right;
-    margin-right: 200px;
-    margin-top: 10px;
+    margin-right: 199px;
+    margin-top: 70px;
     margin-bottom: 30px;
 }
 
@@ -117,4 +119,10 @@ header{
     margin-bottom: 30px;
 }
 
+.logo3 {
+    width: 30%;
+    position:absolute;
+    top: 500px;
+    left: 50px;
+}
 
