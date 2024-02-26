@@ -45,8 +45,8 @@ header{
 .logo2{
     width: 30%;
     position:absolute;
-    top: 210px;
-    left: 90px;
+    top: 130px;
+    left: 50px;
 }
 
 .social-media{
@@ -73,8 +73,48 @@ header{
 }
 
 .ingredientes h2{
-    font-size: 40px;
+    font-size: 30px;
     text-align: right;
-    margin-right: 170px;
-
+    margin-right: 320px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    
 }
+
+.ingredientes li{
+    margin-bottom: 5px;
+    text-align: left;
+    margin-left: 640px;
+    
+}
+.ingredientes-dois li{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+    text-align: left;
+    margin-left: 1080px;
+}
+
+.preparo h3{
+    font-size: 30px;
+    text-align: right;
+    margin-right: 200px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.preparo li{
+    margin-bottom: 5px;
+    text-align: left;
+    margin-left: 640px;
+}
+
+.preparo h4{
+    font-size: 30px;
+    text-align: right;
+    margin-right: 160px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+
